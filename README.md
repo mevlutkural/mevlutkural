@@ -8,10 +8,10 @@ I have strong experience in the fintech industry, focusing on secure, modular, a
 
 ## 🛠 Tech Stack
 
-- **Backend:** NestJS, Express.js, Laravel
+- **Backend:** Springboot, NestJS, Express.js, Laravel
 - **Frontend:** Vue.js, Nuxt.js, React, Next.js
-- **Infrastructure:** Docker, Redis, RabbitMQ
-- **Languages:** TypeScript, JavaScript, PHP
+- **Infrastructure:** Docker, Redis, Kafka, RabbitMQ
+- **Languages:** Java, TypeScript, JavaScript, PHP
 
 ---
 
