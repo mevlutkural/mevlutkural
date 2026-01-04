@@ -6,9 +6,16 @@
 
 ## 💫 About Me
 
-<img src="./linux.gif" align="right" width="150" />
-
-Hi! I'm Mevlüt, a fullstack developer focused on building secure, scalable, and high-performance fintech solutions. I'm passionate about open source and modular system design.
+<table border="0">
+  <tr>
+    <td valign="top">
+      Hi! I'm Mevlüt, a fullstack developer focused on building secure, scalable, and high-performance fintech solutions. I'm passionate about open source and modular system design.
+    </td>
+    <td valign="top" align="right">
+      <img src="./linux.gif" width="150" />
+    </td>
+  </tr>
+</table>
 
 ---
 
