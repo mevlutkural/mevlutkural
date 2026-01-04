@@ -1,7 +1,7 @@
 # [Mevlüt Kural] - Fullstack Developer & Fintech Enthusiast
 
 <p align="center">
-  <img src="./banner.jpeg" alt="Mevlüt Kural Banner" width="100%">
+  <img src="./banner2.jpeg" alt="Mevlüt Kural Banner" width="100%">
 </p>
 
 ## 💫 About Me
